@@ -17,7 +17,7 @@ This project aim to permit to delete files permanently, easly and securly .
 
 If you like this Repo, Please click the :star:
 
-List of `awesome README Profile` categories mentioned below
+List of `Easy Auto Delete` categories mentioned below
 
 ## Contents
   - [Installation](#installation)
