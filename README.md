@@ -5,7 +5,7 @@
 <a href="https://github.com/volpijak12/easy-auto-delete/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/volpijak12/easy-auto-delete" alt="Forks Badge"/></a>
 <a href="https://github.com/volpijak12/easy-auto-delete/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/volpijak12/easy-auto-delete" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/volpijak12/easy-auto-delete/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/volpijak12/easy-auto-delete" alt="Issues Badge"/></a>
-<a href="https://github.com/volpijak12/easy-auto-remove/graphs/contributors"><img alt="GitHub contributors" <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/volpijak12/easy-auto-delete"</a>
+<a href="https://github.com/volpijak12/easy-auto-delete/graphs/contributors"><img alt="GitHub contributors" <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/volpijak12/easy-auto-delete"</a>
 <a href="https://github.com/volpijak12/easy-auto-delete/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/volpijak12/easy-auto-delete" alt="License Badge"/></a>
 </div>
 <br>
