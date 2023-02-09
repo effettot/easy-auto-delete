@@ -30,7 +30,7 @@ List of `Easy Auto Delete` categories mentioned below
 - Download the files from <a href="https://github.com/volpijak12/easy-auto-delete">here</a>  
 - Extract files from the downloaded folder
 - The needed files are: 1del.py and 2del.py
-- After you start the script it will wait for you to press Ctrl+Alt+Z and after that it will cancel the selected files/folder 
+- After you start the script 1del.py it will wait for you to press Ctrl+Alt+Z and after that it will cancel the selected files/folder 
 - Note that the keyboard module is not a built-in module, so you may need to install it first by running "pip install keyboard".
 
 ## Autostart
