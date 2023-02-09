@@ -11,6 +11,7 @@
 <br>
 <p align="center"><i>Loved the project? Please visit our <a href="">Website</a></i></p>
 <br>
+
 Easy Auto Delete is a project crated by volpi_jak .
 
 This project aim to permit to delete files permanently, easly and securly .
