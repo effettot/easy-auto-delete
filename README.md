@@ -21,6 +21,7 @@ List of `Easy Auto Delete` categories mentioned below
 
 ## Contents
   - [Installation](#installation)
+  - [Autostart on boot](#autostart)
   - [Contribute](#contribute)
 
 ## Installation
@@ -30,6 +31,25 @@ List of `Easy Auto Delete` categories mentioned below
 - The needed files are: 1del.py and 2del.py
 - After you start the script it will wait for you to press Ctrl+Alt+Z and after that it will cancel the selected files/folder 
 - Note that the keyboard module is not a built-in module, so you may need to install it first by running "pip install keyboard".
+
+## Autostart
+
+ Windows 
+- Create a shortcut to the script.
+- Press the Windows key + R to open the Run dialog
+- Type shell:startup and press Enter.
+- Copy the shortcut you created in step 1 to the Startup folder.
+- Now, your script will run every time the computer starts.
+
+ MacOS or Linux
+- Open the terminal.
+- Type nano ~/.bash_profile to create or open the bash profile file.
+- Add the following line to the file: python /path/to/your/script.py &.
+- Save and close the file.
+- Now, your script will run every time you log in to your computer.
+
+Note: 
+these are just basic examples, and you may need to modify the steps based on your specific setup.
 
 
 # Contribute
