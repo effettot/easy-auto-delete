@@ -9,7 +9,7 @@
 <a href="https://github.com/volpijak12/easy-auto-delete/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/volpijak12/easy-auto-delete" alt="License Badge"/></a>
 </div>
 <br>
-<p align="center"><i>Loved the project? Please visit our <a href="">Website</a></i></p>
+<p align="center"><i>Loved the project? click the :star:</i></p>
 <br>
 
 Easy Auto Delete is a project crated by volpi_jak .
