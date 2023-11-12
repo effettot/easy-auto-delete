@@ -12,13 +12,15 @@
 <p align="center"><i>Loved the project? click the :star:</i></p>
 <br>
 
-Easy Auto Delete is a project crated by volpi_jak .
+Easy Auto Delete is a project crated by effettot.
 
 This project aim to permit to delete files permanently, easly and securly .
 
 If you like this Repo, Please click the :star:
 
 List of `Easy Auto Delete` categories mentioned below
+
+WORK IN PROGRESS, NOT FINISHED YET
 
 ## Contents
   - [Installation](#installation)
